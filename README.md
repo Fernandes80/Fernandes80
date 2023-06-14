@@ -3,16 +3,17 @@
  
 🧑‍💻 Vivência de 25 anos na área de tecnologia, formação em análise de sistemas pela universidade paulista de São Paulo e pós graduado em ciência de dados e transformação digital na Universidade UNESC de Santa Catarina, atuo na área de tecnologia em projetos big data analíticos.
 
-Atualmente trabalho na área de dados analíticos por 5 anos e experiência de 20 anos como analista de sistemas, gestão e desenvolvimento de sistemas legados e integrações com Oracle EBS.
+Atualmente trabalho na área de dados analíticos em projeto do mundo Big Data por 5 anos e experiência de 20 anos como analista de sistemas, gestão e desenvolvimento de sistemas legados e integrações com Oracle EBS.
 
-🔭 Project 1
+🎯 Minhas Skills
 
-teste 123
+Tecnologia:
+● Cloud GCP
+● Jira, GitHub, GitLab, BitBucket, Confluence, Erwin, Power Designer, DevOps, Oracle Forms, Reports, SQL, PL/SQL
 
-🔭 Project 2
-
-teste 123
-     
+Certificação e Visto:
+● Certificação - Big Data Foundation
+● Visto Americano Ativo - B1/B2
 
 📧 Meus contatos
 
