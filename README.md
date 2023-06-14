@@ -12,19 +12,15 @@ teste 123
 🔭 Project 2
 
 teste 123
-
-📖 Graduado em Gestão de Tecnologia da Informação e Pós-Graduação em Administração de Banco de Dados
-
-💼 Analista de Suporte II na TOTVS
-
-🎯 Minhas Skills
-
      
 
-🌱 Todos os meus artigos do Linkedin estão disponíveis logo abaixo:
-
-
 📧 Meus contatos
+
+* Linkedin
+https://www.linkedin.com/in/romulofdataengineer/
+* Email
+romulofe80@gmail.com
+
 
 
   
