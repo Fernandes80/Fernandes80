@@ -8,7 +8,8 @@ Atualmente trabalho na área de dados analíticos em projeto do mundo Big Data p
 🎯 Minhas Skills
 
 Tecnologia:
-● Cloud GCP
+● Cloud GCP   (BigQuery, Data Fusion, Composer Airflow, PubSub, Data Flow, Google Function, Python, FireStore);
+● Cloud Azure (Data Factory com Databricks);
 ● Jira, GitHub, GitLab, BitBucket, Confluence, Erwin, Power Designer, DevOps, Oracle Forms, Reports, SQL, PL/SQL
 
 Certificação e Visto:
