@@ -1,7 +1,6 @@
 
- 👋 Olá, tudo bem? 
-
-Me chamo Rômulo, seja bem vindo(a) ao meu Github!
+ 👋 Olá, tudo bem? Me chamo Rômulo, seja bem vindo(a) ao meu Github!
+ 
 🧑‍💻 Sou arquiteto de dados com viência de engenharia de dados e tendo uma larga bagagem na profissão de analista de sistema por 15 anos, sou formado em Análise de Ssitemas e Pós Graduado em Data Science.
 
 🔭 Project 1
