@@ -3,7 +3,7 @@
  
 🧑‍💻 Vivência de 25 anos na área de tecnologia, formação em análise de sistemas pela universidade paulista de São Paulo e pós graduado em ciência de dados e transformação digital na Universidade UNESC de Santa Catarina, atuo na área de tecnologia em projetos big data analíticos.
 
-Atualmente trabalho na área de dados analíticos em projeto do mundo Big Data por 5 anos e experiência de 20 anos como analista de sistemas, gestão e desenvolvimento de sistemas legados e integrações com Oracle EBS.
+Atualmente trabalho na área de dados analíticos em projeto do mundo Big Data por 5 anos porém eu tenho uma longa experiência de 20 anos como analista de sistemas, gestão e desenvolvimento de sistemas legados e integrações com Oracle EBS.
 
 🎯 Minhas Skills
 
