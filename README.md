@@ -1,9 +1,9 @@
 
- 👋 Olá, tudo bem? Me chamo Rômulo, seja bem vindo(a) ao meu Github!
+👋 Olá, tudo bem? Me chamo Rômulo, seja bem vindo(a) ao meu Github!
  
 🧑‍💻 Vivência de 25 anos na área de tecnologia, formação em análise de sistemas pela universidade paulista de São Paulo e pós graduado em ciência de dados e transformação digital na Universidade UNESC de Santa Catarina, atuo na área de tecnologia em projetos big data analíticos.
 
-Amo essa experiência de viver e coletar dados diariamente, focado em projetos analíticos no tal famoso mundo BIG DATA já por 6 anos porém, venho de um background longo na jornada e experiência de 20 anos como analista de sistemas, gestão e desenvolvimento de sistemas legados e integrações com Oracle EBS.
+Amo essa experiência de viver e coletar dados diariamente, focado em projetos analíticos no tal mundo BIG DATA, já na estrada por 5 anos e um longo legado de mais de  20 anos na função de analista de sistemas, cordenação de projetos, gestão e desenvolvimento de sistemas legados e integrações com ERP Oracle.
 
 🎯 Minhas Skills
 
