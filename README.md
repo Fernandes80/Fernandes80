@@ -21,7 +21,7 @@ Amo essa experiência de viver e coletar dados diariamente, focado em projetos a
 📧 Meus contatos
 
 * Linkedin
-https://www.linkedin.com/in/romulofdataengineer/
+https://www.linkedin.com/in/romulo360analitico/
 * Email
 romulofe80@gmail.com
 
