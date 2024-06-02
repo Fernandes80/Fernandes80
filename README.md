@@ -1,5 +1,5 @@
 
-👋 Olá, tudo bem? Me chamo Fernandes, seja bem vindo(a) ao Github 360 Analítico!
+👋 Olá, tudo bem? Me chamo Fernandes, seja bem vindo(a) ao Github DataPro360 Analítico!
  
 🧑‍💻 Como lider especialista na área de dados e vivência de 26 anos na área de tecnologia, quero compartilhar contigo alguns insights.
 
@@ -17,6 +17,7 @@ Amo essa experiência de viver e coletar dados diariamente, focado em projetos a
 
 ● Certificação Apache Airflow
 ● Certificação - Big Data Foundation
+● Certificação - GCP - GCP - Professional Data Engineer
 ● Visto Americano Ativo - B1/B2
 
 
