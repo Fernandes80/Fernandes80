@@ -17,7 +17,7 @@ Amo essa experiência de viver e coletar dados diariamente, focado em projetos a
 
 ● Certificação Apache Airflow
 ● Certificação - Big Data Foundation
-● Certificação - GCP - GCP - Professional Data Engineer
+● Certificação - GCP - Professional Data Engineer
 ● Visto Americano Ativo - B1/B2
 
 
