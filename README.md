@@ -15,9 +15,10 @@ Amo essa experiência de viver e coletar dados diariamente, focado em projetos a
 
 📖 Certificação e Visto:
 
+● Certificação GCP Professional Cloud Architect
+● Certificação Engenheiro de Dados Profissional GCP
+● Certificação Big Data Foundation
 ● Certificação Apache Airflow
-● Certificação - Big Data Foundation
-● Certificação - GCP - Professional Data Engineer
 ● Visto Americano Ativo - B1/B2
 
 
