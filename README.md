@@ -1,29 +1,31 @@
+👋 Welcome!
+Hello, how are you?
+My name is Fernandes — welcome to the DataPro360 Analytics GitHub!
 
-👋 Olá, tudo bem? Me chamo Fernandes, seja bem vindo(a) ao Github DataPro360 Analítico!
- 
-🧑‍💻 Como lider especialista na área de dados e vivência de 26 anos na área de tecnologia, quero compartilhar contigo alguns insights.
+🧑‍💻 As a lead specialist in the data field with 26 years of experience in technology, I would like to share some insights with you.
 
-🧑‍💻 Sou formação em análise de sistemas pela universidade paulista de São Paulo e pós graduado em ciência de dados e transformação digital na Universidade UNESC de Santa Catarina, atuo na área de tecnologia em projetos big data analíticos.
+🧑‍💻 I hold a degree in Systems Analysis from Universidade Paulista (São Paulo) and a postgraduate degree in Data Science and Digital Transformation from UNESC (Santa Catarina).
+I currently work in technology, focusing on big data analytics projects.
 
-Amo essa experiência de viver e coletar dados diariamente, focado em projetos analíticos no tal mundo Big Data, já na estrada por 6 anos e um longo legado de mais de 20 anos na função de analista de sistemas, coordenação de projetos, gestão e desenvolvimento de sistemas legados e integrações com ERP Oracle.
+I am passionate about the experience of working with and collecting data every day, focusing on analytical projects within the exciting Big Data world. I have been on this journey for 6 years, after building a long career of over 20 years as a Systems Analyst, Project Coordinator, and in Systems Development and Legacy Integration, especially with Oracle ERP systems.
 
-🎯 Minhas Skills
+🎯 Skills
+GCP Cloud (BigQuery, Data Fusion, Composer Airflow, Pub/Sub, Dataflow, Google Functions, Python, Firestore, Data Studio, Looker)
 
-● Cloud GCP   (BigQuery, Data Fusion, Composer Airflow, PubSub, Data Flow, Google Function, Python, FireStore, Data Studio, Looker);
-● Cloud Azure (Data Factory com Databricks);
-● Jira, GitHub, GitLab, BitBucket, Confluence, Erwin, Power Designer, DevOps, Oracle Forms, Reports, SQL, PL/SQL
+Azure Cloud (Data Factory with Databricks)
 
-📖 Certificação e Visto:
+Other Tools: Jira, GitHub, GitLab, Bitbucket, Confluence, Erwin, Power Designer, DevOps, Oracle Forms, Reports, SQL, PL/SQL
 
-● Certificação GCP Professional Cloud Architect
-● Certificação Engenheiro de Dados Profissional GCP
-● Certificação Big Data Foundation
-● Certificação Apache Airflow
-● Visto Americano Ativo - B1/B2
+📖 Certifications and Visa
+GCP Professional Cloud Architect Certification
 
+GCP Professional Data Engineer Certification
 
-📧 IMPORTANTE
-Esse Space foi criado exclusivamente para facilitar o trâmite de fonte de dados nos treinamentos para área de dados-GCP.
+Big Data Foundation Certification
 
+Apache Airflow Certification
 
-  
+Valid U.S. Visa (B1/B2)
+
+📧 Important
+This space was created exclusively to support data sourcing for GCP data training sessions.
